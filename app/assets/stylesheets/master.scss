@@ -99,14 +99,15 @@ body {
   font-weight: 100;
   font-size: 25px;
 }
+hr {
+  margin-top: auto;
+  margin-bottom: 1rem;
+  border: 0;
+  }
 .grey {
   border-top: none;
   background-color: #76818B;
   width: 250px;
   height: 3px;
 }
-hr {
-  margin-top: auto;
-  margin-bottom: 1rem;
-  border: 0;
-}
+
