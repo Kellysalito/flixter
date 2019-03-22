@@ -1,5 +1,8 @@
 class StaticPagesController < ApplicationController
-def index
+ def index
   @courses = Course.all
-end
+ end
+
+ def privacy
+  end
 end
